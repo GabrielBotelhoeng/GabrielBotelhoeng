@@ -17,12 +17,24 @@
 
 ## Sobre mim
 
-Sou desenvolvedor **full-stack** com foco em **backend, integração com LLMs e agentes de IA autônomos**. Gosto de construir sistemas que resolvem problema real — do primeiro prompt até o deploy em produção, passando por banco, testes e infraestrutura.
+Sou desenvolvedor **full-stack** com base sólida em **backend** — a camada onde as decisões que importam acontecem. Gosto de trabalhar produto ponta a ponta: entender o problema do usuário, modelar o banco, desenhar a API, entregar o frontend e cuidar do deploy. Nenhuma parte da stack é "não é comigo".
 
-- Trabalho principalmente com **Node.js / TypeScript**, **React**, **Postgres** e **Docker**
-- Especializado em orquestrar **Claude**, **OpenAI**, **RAG** com pgvector, **automações via N8N** e agentes conversacionais
-- Curioso por natureza: se tem código novo pra estudar, eu quebro a máquina virtual pra descobrir como funciona
-- Baseado no Brasil, aberto pra trabalhos remotos e colaborações
+**Como eu trabalho**
+
+- **Fundamentos primeiro** — modelagem de dados relacional, testes automatizados (unitários e integração), CI/CD, logs estruturados e monitoramento. Escrevo código pra aguentar produção sem viver de plantão
+- **Backend que escala** — APIs REST bem versionadas, autenticação/autorização por RBAC, filas e jobs assíncronos, cache com Redis, migrations reversíveis
+- **Frontend com propósito** — React, Next.js e Tailwind com foco em UX responsiva e acessível. UI enxuta é UI que o usuário entende sem precisar de treinamento
+- **IA como ferramenta, não como identidade** — quando o problema pede LLM, eu construo o sistema em volta: RAG bem indexado, prompts versionados, testes com casos reais, controle de custo/latência e guardrails contra alucinação. Não é "chamar API de LLM", é engenharia em cima
+- **Product-minded** — meço o que entrego e priorizo pelo impacto real no usuário. Bug em produto de saúde é paciente confuso, não ticket abstrato
+- **Ownership real** — os projetos aqui nasceram, cresceram e foram pra produção comigo como único dev, do primeiro commit ao usuário final
+
+**Skills que carrego pra qualquer time**
+
+Comunicação clara em code review, disciplina com conventional commits, PRs pequenos e focados, documentação viva junto do código, e a paciência de investigar bug até a causa raiz — não só até o sintoma sumir.
+
+**Onde eu quero contribuir**
+
+Times que valorizam código bem testado, produto com propósito e devs que pensam além da tarefa. Aberto a oportunidades **remotas** em backend, full-stack ou sistemas com IA aplicada — Brasil ou fuso próximo.
 
 <br/>
 
