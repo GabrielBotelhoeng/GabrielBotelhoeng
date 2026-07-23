@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=220&section=header&text=Gabriel%20Botelho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+IA+%26+Agentes+Aut%C3%B4nomos&descSize=18&descAlignY=60&animation=fadeIn&reversal=false&stroke=0&strokeWidth=0" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=220&section=header&text=Gabriel%20Botelho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+IA+e+Agentes+Aut%C3%B4nomos&descSize=18&descAlignY=60&animation=fadeIn&reversal=false&stroke=0&strokeWidth=0" width="100%" alt="header"/>
 
 <a href="https://github.com/GabrielBotelhoeng">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&lines=Construindo+backends+robustos+e+agentes+de+IA;Automa%C3%A7%C3%B5es+de+ponta+a+ponta+com+LLMs;Do+prompt+ao+deploy+em+produ%C3%A7%C3%A3o" alt="typing" />
