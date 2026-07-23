@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gabriel%20Botelho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IA%20%26%20Agentes%20Aut%C3%B4nomos&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=220&section=header&text=Gabriel%20Botelho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IA%20%26%20Agentes%20Aut%C3%B4nomos&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/GabrielBotelhoeng">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&lines=Construindo+backends+robustos+e+agentes+de+IA;Automa%C3%A7%C3%B5es+de+ponta+a+ponta+com+LLMs;Do+prompt+ao+deploy+em+produ%C3%A7%C3%A3o" alt="typing" />
@@ -92,8 +92,8 @@ Assistente nutricional white-label que roda no WhatsApp. O paciente conversa por
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielBotelhoeng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBotelhoeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=GabrielBotelhoeng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=GabrielBotelhoeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="top langs"/>
 
 <br/>
 
@@ -101,7 +101,12 @@ Assistente nutricional white-label que roda no WhatsApp. O paciente conversa por
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GabrielBotelhoeng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBotelhoeng&theme=tokyonight" alt="profile details"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielBotelhoeng&theme=tokyonight" alt="repos per language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielBotelhoeng&theme=tokyonight&utcOffset=-3" alt="productive time"/>
 
 </div>
 
